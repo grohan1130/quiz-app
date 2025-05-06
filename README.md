@@ -1,1 +1,1 @@
-# campus-store
+# quiz-app
